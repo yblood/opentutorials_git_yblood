@@ -1,5 +1,2 @@
 <html>
-  <body>
-    
-  </body>
 </html>
